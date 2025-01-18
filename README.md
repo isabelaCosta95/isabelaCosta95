@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=000000&width=435&lines=Ol%C3%A1!+Eu+sou+a+Isabela+Costa+%F0%9F%8C%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=000000&width=435&lines=Ol%C3%A1!+Eu+sou+a+Isabela+%F0%9F%8C%BB)](https://git.io/typing-svg)
 
 🎓 Me formando em Análise e Desenvolvimento de Sistemas
 <br><br>

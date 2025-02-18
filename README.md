@@ -2,7 +2,6 @@
 
 🎓 Me formando em Análise e Desenvolvimento de Sistemas
 <br><br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-oliveira-costa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabelaovc07/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelaovc9@gmail.com?subject=Assunto&body=Mensagem)
 
